@@ -1,0 +1,18 @@
+[
+  {
+    "package": "PRC",
+    "url": "https://github.com/CajoterBraak/PRC"
+  },
+  {
+    "package": "TraitEnvMLMWA",
+    "url": "https://github.com/CajoterBraak/TraitEnvMLMWA"
+  },
+  {
+    "package": "Gendis2unmix",
+    "url": "https://github.com/CajoterBraak/Gendis2unmix"
+  },
+  {
+    "package": "demc2",
+    "url": "https://github.com/CajoterBraak/demc2"
+  }
+]
